@@ -1,4 +1,4 @@
-# 🍗 大鸡腿动量轮动交易系统 (Momentum Rotation System)
+# 🍗 大鸡腿动量轮动交易看板 (Momentum Rotation System)
 
 > “股市最大悖论之一：看似过高的通常会更高，看似过低的通常会更低” —— 威廉・欧奈尔
 
