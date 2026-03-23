@@ -11,7 +11,6 @@
 - **硬核评价体系**：全面展示夏普比率、索提诺比率、最大回撤等专业指标，追求极致的“收益性价比”。
 
 ## 📸 系统截图
-*(建议将系统运行时的图1、图2、图3截图命名为 1.png, 2.png, 3.png 放入 assets 文件夹，并在推送到 GitHub 后取消下方注释)*
  <img width="1411" height="931" alt="1" src="https://github.com/user-attachments/assets/54fb3610-6a35-4528-b068-602cfea5deee" />
 <img width="725" height="675" alt="2" src="https://github.com/user-attachments/assets/6a82c4ad-693a-4a2b-8102-3ae303e80430" />
 <img width="2178" height="1130" alt="3" src="https://github.com/user-attachments/assets/39edc6f2-0cf2-430a-9b17-abbcb7d80880" />
